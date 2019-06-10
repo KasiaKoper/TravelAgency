@@ -1,4 +1,3 @@
-package BiuroPodrozy;
 
 import org.w3c.dom.stylesheets.LinkStyle;
 

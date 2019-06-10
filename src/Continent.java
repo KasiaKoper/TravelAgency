@@ -1,5 +1,3 @@
-package BiuroPodrozy;
-
 public enum Continent {
 
     EU("Europe"),

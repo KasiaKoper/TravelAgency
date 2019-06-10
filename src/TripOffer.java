@@ -1,4 +1,3 @@
-package BiuroPodrozy;
 
 public class TripOffer {
 
@@ -15,16 +14,6 @@ public class TripOffer {
         this.isDog=isDog;
     }
 
-
-//    @Override
-//    public String toString() {
-//        return "(" +
-//                price + "*"+
-//                noOfNights +
-//                ", " + continent +
-//                ", " + isDog +
-//                ")";
-//    }
 
     @Override
     public String toString() {

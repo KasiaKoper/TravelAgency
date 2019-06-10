@@ -1,4 +1,3 @@
-package BiuroPodrozy;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -35,16 +34,8 @@ public class TravelAgency {
             }
         } return false;
 
-        //powinno usuwac kilka tripów, a nie dziala dla kilku
-//        if (indexToDelete.isEmpty()) {
-//            return false;
-//        } else {
-//            for (Integer integer : indexToDelete) {
-//                tripOffers.remove(integer);
-//            }
-//            System.out.println(tripOffers);
-//            return true;
-//        }
+
     }
+
 
 }
